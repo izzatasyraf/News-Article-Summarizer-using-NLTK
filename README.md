@@ -3,6 +3,6 @@
 News article summarizer using NLTK in python.
 
 package used:-
-newspaper3k
-tkinter
-nltk
+newspaper3k.
+tkinter.
+nltk.
